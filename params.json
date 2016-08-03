@@ -1,6 +1,6 @@
 {
   "name": "Blog",
   "tagline": "MaxWhale's Blog",
-  "body": "# blog\r\nMaxWhale's Blog\r\n",
+  "body": "# blog\r\nMaxWhale's Blog\r\n\r\n\r\n> yum install golang\r\n> yum install gmp-devel\r\n> git clone https://github.com/ethereum/go-ethereum\r\n> cd go-ethereum\r\n> make geth\r\n> build/bin/geth\r\n***\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
